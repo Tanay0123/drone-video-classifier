@@ -24,5 +24,6 @@ Small, unbalanced dataset with 11 distinct subjects, performing 13 distinct gest
 Model Summary:
 
 Transfer-Learning with a ResNet-18 backbone and fine-tuning, augmentation, weight-balanced cross-entropy loss.
+Developed using PyTorch environment. 
 
 (The described scenario represents the context for a university assignment; all entities mentioned are fictitious)
